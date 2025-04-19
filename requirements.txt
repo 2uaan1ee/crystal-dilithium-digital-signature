@@ -1,0 +1,11 @@
+cffi         
+cryptography 
+dnspython    
+liboqs       
+oqs         
+pip         
+pycparser    
+pycryptodome 
+pymongo      
+PyPDF2    
+setuptools 
